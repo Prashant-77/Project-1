@@ -1,5 +1,5 @@
 ''' This code is written by me
-Author= Prshant Prakash '''
+Author= Prashant Prakash '''
 
 import random
 
