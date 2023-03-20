@@ -1,5 +1,5 @@
 Project 1.( Rock Paper and Scissors )
-Copy and Run in any Python Compiler 
+Copy and Run in any Python Compiler or Vs code
 
 
 Direct link of Project 
